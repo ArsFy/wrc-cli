@@ -34,7 +34,7 @@ Open release page and download the latest version.
 ### Build
 
 ```bash
-git clone https://github.com/ArsFy/wrc-cli.git
-cd wrc-cli
+git clone https://github.com/ArsFy/wrs-cli.git
+cd wrs-cli
 go build
 ```
